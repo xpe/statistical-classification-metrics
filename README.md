@@ -1,4 +1,5 @@
 statistical-classification-metrics
 ==================================
 
-Comparison of statistical classification metrics (in Omnigraffle).
+A visual comparison of statistical classification metrics, containing
+Omnigraffle and PDF versions.
