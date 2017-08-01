@@ -137,7 +137,7 @@
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>185</integer>
+					<integer>3</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -191,7 +191,7 @@
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
-					<integer>3</integer>
+					<integer>4</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Shape</key>
@@ -250,7 +250,7 @@
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
-					<integer>4</integer>
+					<integer>5</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Shape</key>
@@ -309,7 +309,7 @@
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
-					<integer>5</integer>
+					<integer>6</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Shape</key>
@@ -379,7 +379,7 @@
 						<real>9</real>
 					</dict>
 					<key>ID</key>
-					<integer>6</integer>
+					<integer>7</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -441,7 +441,7 @@
 								<real>12</real>
 							</dict>
 							<key>ID</key>
-							<integer>8</integer>
+							<integer>9</integer>
 							<key>Rotation</key>
 							<real>45</real>
 							<key>Style</key>
@@ -478,7 +478,7 @@
 							<key>GridCenter</key>
 							<string>YES</string>
 							<key>ID</key>
-							<integer>9</integer>
+							<integer>10</integer>
 							<key>Rotation</key>
 							<real>315</real>
 							<key>Style</key>
@@ -513,7 +513,7 @@
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>10</integer>
+							<integer>11</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -561,7 +561,7 @@
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>11</integer>
+							<integer>12</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -609,7 +609,7 @@
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>12</integer>
+							<integer>13</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -657,7 +657,7 @@
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>13</integer>
+							<integer>14</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -696,7 +696,7 @@
 					<key>GroupConnect</key>
 					<string>YES</string>
 					<key>ID</key>
-					<integer>7</integer>
+					<integer>8</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -735,7 +735,7 @@
 						<real>9</real>
 					</dict>
 					<key>ID</key>
-					<integer>14</integer>
+					<integer>15</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -794,7 +794,7 @@
 						<real>8</real>
 					</dict>
 					<key>ID</key>
-					<integer>15</integer>
+					<integer>16</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -856,7 +856,7 @@ predicted = expected}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>16</integer>
+					<integer>17</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -920,7 +920,7 @@ TN: True  Negative}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>17</integer>
+					<integer>18</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -987,7 +987,7 @@ Matrix}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>19</integer>
+							<integer>20</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -1035,7 +1035,7 @@ Matrix}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>20</integer>
+							<integer>21</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -1083,7 +1083,7 @@ Matrix}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>21</integer>
+							<integer>22</integer>
 							<key>Rotation</key>
 							<real>270</real>
 							<key>Style</key>
@@ -1133,7 +1133,7 @@ Matrix}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>22</integer>
+							<integer>23</integer>
 							<key>Rotation</key>
 							<real>270</real>
 							<key>Style</key>
@@ -1183,7 +1183,7 @@ Matrix}</string>
 								<real>9</real>
 							</dict>
 							<key>ID</key>
-							<integer>23</integer>
+							<integer>24</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -1238,7 +1238,7 @@ Matrix}</string>
 								<real>9</real>
 							</dict>
 							<key>ID</key>
-							<integer>24</integer>
+							<integer>25</integer>
 							<key>Rotation</key>
 							<real>270</real>
 							<key>Style</key>
@@ -1300,7 +1300,7 @@ Matrix}</string>
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>26</integer>
+									<integer>27</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -1348,7 +1348,7 @@ Matrix}</string>
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>27</integer>
+									<integer>28</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -1396,7 +1396,7 @@ Matrix}</string>
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>28</integer>
+									<integer>29</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -1444,7 +1444,7 @@ Matrix}</string>
 										<real>10</real>
 									</dict>
 									<key>ID</key>
-									<integer>29</integer>
+									<integer>30</integer>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -1481,7 +1481,7 @@ Matrix}</string>
 								</dict>
 							</array>
 							<key>ID</key>
-							<integer>25</integer>
+							<integer>26</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -1503,7 +1503,7 @@ Matrix}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>18</integer>
+					<integer>19</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -1531,10 +1531,10 @@ Matrix}</string>
 					<key>Head</key>
 					<dict>
 						<key>ID</key>
-						<integer>3</integer>
+						<integer>4</integer>
 					</dict>
 					<key>ID</key>
-					<integer>30</integer>
+					<integer>31</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -1580,7 +1580,7 @@ Matrix}</string>
 					<key>Tail</key>
 					<dict>
 						<key>ID</key>
-						<integer>120</integer>
+						<integer>121</integer>
 					</dict>
 				</dict>
 				<dict>
@@ -1589,10 +1589,10 @@ Matrix}</string>
 					<key>Head</key>
 					<dict>
 						<key>ID</key>
-						<integer>5</integer>
+						<integer>6</integer>
 					</dict>
 					<key>ID</key>
-					<integer>31</integer>
+					<integer>32</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -1638,7 +1638,7 @@ Matrix}</string>
 					<key>Tail</key>
 					<dict>
 						<key>ID</key>
-						<integer>125</integer>
+						<integer>126</integer>
 					</dict>
 				</dict>
 				<dict>
@@ -1647,10 +1647,10 @@ Matrix}</string>
 					<key>Head</key>
 					<dict>
 						<key>ID</key>
-						<integer>4</integer>
+						<integer>5</integer>
 					</dict>
 					<key>ID</key>
-					<integer>32</integer>
+					<integer>33</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -1696,7 +1696,7 @@ Matrix}</string>
 					<key>Tail</key>
 					<dict>
 						<key>ID</key>
-						<integer>69</integer>
+						<integer>70</integer>
 						<key>Info</key>
 						<integer>1</integer>
 					</dict>
@@ -1709,41 +1709,6 @@ Matrix}</string>
 						<dict>
 							<key>Bounds</key>
 							<string>{{636.5, 433.125}, {50.399997711181641, 15.840000152587891}}</string>
-							<key>Class</key>
-							<string>ShapedGraphic</string>
-							<key>FontInfo</key>
-							<dict>
-								<key>Font</key>
-								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>12</real>
-							</dict>
-							<key>ID</key>
-							<integer>34</integer>
-							<key>Rotation</key>
-							<real>90</real>
-							<key>Style</key>
-							<dict>
-								<key>fill</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>shadow</key>
-								<dict>
-									<key>Draws</key>
-									<string>NO</string>
-								</dict>
-								<key>stroke</key>
-								<dict>
-									<key>CornerRadius</key>
-									<real>10</real>
-								</dict>
-							</dict>
-						</dict>
-						<dict>
-							<key>Bounds</key>
-							<string>{{609.5, 433.125}, {50.399997711181641, 15.840000152587891}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -1778,7 +1743,7 @@ Matrix}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{622.75, 419.75}, {50.399997711181641, 15.840000152587891}}</string>
+							<string>{{609.5, 433.125}, {50.399997711181641, 15.840000152587891}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -1790,6 +1755,8 @@ Matrix}</string>
 							</dict>
 							<key>ID</key>
 							<integer>36</integer>
+							<key>Rotation</key>
+							<real>90</real>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -1811,7 +1778,7 @@ Matrix}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{622.875, 446.75}, {50.399997711181641, 15.840000152587891}}</string>
+							<string>{{622.75, 419.75}, {50.399997711181641, 15.840000152587891}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>FontInfo</key>
@@ -1844,6 +1811,39 @@ Matrix}</string>
 						</dict>
 						<dict>
 							<key>Bounds</key>
+							<string>{{622.875, 446.75}, {50.399997711181641, 15.840000152587891}}</string>
+							<key>Class</key>
+							<string>ShapedGraphic</string>
+							<key>FontInfo</key>
+							<dict>
+								<key>Font</key>
+								<string>Helvetica-Bold</string>
+								<key>Size</key>
+								<real>12</real>
+							</dict>
+							<key>ID</key>
+							<integer>38</integer>
+							<key>Style</key>
+							<dict>
+								<key>fill</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>shadow</key>
+								<dict>
+									<key>Draws</key>
+									<string>NO</string>
+								</dict>
+								<key>stroke</key>
+								<dict>
+									<key>CornerRadius</key>
+									<real>10</real>
+								</dict>
+							</dict>
+						</dict>
+						<dict>
+							<key>Bounds</key>
 							<string>{{621, 414}, {27, 27}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
@@ -1855,7 +1855,7 @@ Matrix}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>38</integer>
+							<integer>39</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -1903,7 +1903,7 @@ Matrix}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>39</integer>
+							<integer>40</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -1951,7 +1951,7 @@ Matrix}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>40</integer>
+							<integer>41</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -1999,7 +1999,7 @@ Matrix}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>41</integer>
+							<integer>42</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2038,7 +2038,7 @@ Matrix}</string>
 					<key>GroupConnect</key>
 					<string>YES</string>
 					<key>ID</key>
-					<integer>33</integer>
+					<integer>34</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2073,7 +2073,7 @@ Matrix}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>42</integer>
+					<integer>43</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2127,7 +2127,7 @@ Coefficient}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>43</integer>
+					<integer>44</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -2173,7 +2173,7 @@ Coefficient}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>44</integer>
+					<integer>45</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2236,7 +2236,7 @@ Rate}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>45</integer>
+					<integer>46</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2298,7 +2298,7 @@ Rate}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>46</integer>
+					<integer>47</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2361,7 +2361,7 @@ Rate}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>47</integer>
+					<integer>48</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2414,7 +2414,7 @@ Rate}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>48</integer>
+					<integer>49</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2467,7 +2467,7 @@ Rate}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>49</integer>
+					<integer>50</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2530,7 +2530,7 @@ Value}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>50</integer>
+					<integer>51</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2591,7 +2591,7 @@ Value}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>51</integer>
+					<integer>52</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2654,7 +2654,7 @@ Rate}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>52</integer>
+					<integer>53</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2718,7 +2718,7 @@ F Measure}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>53</integer>
+					<integer>54</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2779,7 +2779,7 @@ F Measure}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>54</integer>
+					<integer>55</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2842,7 +2842,7 @@ Fall Out}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>55</integer>
+					<integer>56</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2898,7 +2898,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
-					<integer>56</integer>
+					<integer>57</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -2953,7 +2953,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>58</integer>
+							<integer>59</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3001,7 +3001,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>59</integer>
+							<integer>60</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3049,7 +3049,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>60</integer>
+							<integer>61</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3097,7 +3097,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>61</integer>
+							<integer>62</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3134,7 +3134,7 @@ Rate}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>57</integer>
+					<integer>58</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -3162,7 +3162,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
-					<integer>62</integer>
+					<integer>63</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -3205,7 +3205,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>63</integer>
+					<integer>64</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -3242,7 +3242,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>64</integer>
+					<integer>65</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -3279,7 +3279,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>65</integer>
+					<integer>66</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -3316,7 +3316,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>66</integer>
+					<integer>67</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -3353,7 +3353,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>67</integer>
+					<integer>68</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -3390,7 +3390,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>68</integer>
+					<integer>69</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -3427,7 +3427,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>69</integer>
+					<integer>70</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -3464,7 +3464,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>70</integer>
+					<integer>71</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -3501,7 +3501,7 @@ Rate}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>71</integer>
+					<integer>72</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -3547,7 +3547,7 @@ Rate}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>72</integer>
+					<integer>73</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -3590,8 +3590,8 @@ Rate}</string>
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\fs24 \cf0 By: David James of Bluemont Labs LLC | License: GPL v3 | Updated: 2013-07-18\
-http://bluemontlabs.com/statistical-classification-metrics}</string>
+\f0\fs24 \cf0 By: David James | License: GPL v3 | Updated: 2017-08-01\
+https://github.com/bluemont/statistical-classification-metrics}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
@@ -3609,7 +3609,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 						<real>24</real>
 					</dict>
 					<key>ID</key>
-					<integer>73</integer>
+					<integer>74</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -3675,7 +3675,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>75</integer>
+							<integer>76</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3723,7 +3723,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>76</integer>
+							<integer>77</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3771,7 +3771,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>77</integer>
+							<integer>78</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3819,7 +3819,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>78</integer>
+							<integer>79</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3856,7 +3856,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>74</integer>
+					<integer>75</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -3896,7 +3896,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>80</integer>
+							<integer>81</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3944,7 +3944,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>81</integer>
+							<integer>82</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3992,7 +3992,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>82</integer>
+							<integer>83</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4040,7 +4040,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>83</integer>
+							<integer>84</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4077,7 +4077,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>79</integer>
+					<integer>80</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -4117,7 +4117,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>85</integer>
+							<integer>86</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4165,7 +4165,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>86</integer>
+							<integer>87</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4213,7 +4213,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>87</integer>
+							<integer>88</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4261,7 +4261,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>88</integer>
+							<integer>89</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4298,7 +4298,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>84</integer>
+					<integer>85</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -4338,7 +4338,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>90</integer>
+							<integer>91</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4386,7 +4386,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>91</integer>
+							<integer>92</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4434,7 +4434,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>92</integer>
+							<integer>93</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4482,7 +4482,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>93</integer>
+							<integer>94</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4519,7 +4519,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>89</integer>
+					<integer>90</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -4554,7 +4554,7 @@ http://bluemontlabs.com/statistical-classification-metrics}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>94</integer>
+					<integer>95</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -4622,7 +4622,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>96</integer>
+							<integer>97</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4670,7 +4670,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>97</integer>
+							<integer>98</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4718,7 +4718,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>98</integer>
+							<integer>99</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4766,7 +4766,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>99</integer>
+							<integer>100</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4803,7 +4803,7 @@ Rate}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>95</integer>
+					<integer>96</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -4843,7 +4843,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>101</integer>
+							<integer>102</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4891,7 +4891,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>102</integer>
+							<integer>103</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4939,7 +4939,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>103</integer>
+							<integer>104</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4987,7 +4987,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>104</integer>
+							<integer>105</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5024,7 +5024,7 @@ Rate}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>100</integer>
+					<integer>101</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -5064,7 +5064,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>106</integer>
+							<integer>107</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5112,7 +5112,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>107</integer>
+							<integer>108</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5160,7 +5160,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>108</integer>
+							<integer>109</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5208,7 +5208,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>109</integer>
+							<integer>110</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5245,7 +5245,7 @@ Rate}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>105</integer>
+					<integer>106</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -5285,7 +5285,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>111</integer>
+							<integer>112</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5333,7 +5333,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>112</integer>
+							<integer>113</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5381,7 +5381,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>113</integer>
+							<integer>114</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5429,7 +5429,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>114</integer>
+							<integer>115</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5466,7 +5466,7 @@ Rate}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>110</integer>
+					<integer>111</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -5506,7 +5506,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>116</integer>
+							<integer>117</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5554,7 +5554,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>117</integer>
+							<integer>118</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5602,7 +5602,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>118</integer>
+							<integer>119</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5650,7 +5650,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>119</integer>
+							<integer>120</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5687,7 +5687,7 @@ Rate}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>115</integer>
+					<integer>116</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -5727,7 +5727,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>121</integer>
+							<integer>122</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5775,7 +5775,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>122</integer>
+							<integer>123</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5823,7 +5823,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>123</integer>
+							<integer>124</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5871,7 +5871,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>124</integer>
+							<integer>125</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5910,7 +5910,7 @@ Rate}</string>
 					<key>GroupConnect</key>
 					<string>YES</string>
 					<key>ID</key>
-					<integer>120</integer>
+					<integer>121</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -5950,7 +5950,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>126</integer>
+							<integer>127</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5998,7 +5998,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>127</integer>
+							<integer>128</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6046,7 +6046,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>128</integer>
+							<integer>129</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6094,7 +6094,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>129</integer>
+							<integer>130</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6133,7 +6133,7 @@ Rate}</string>
 					<key>GroupConnect</key>
 					<string>YES</string>
 					<key>ID</key>
-					<integer>125</integer>
+					<integer>126</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -6175,7 +6175,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>131</integer>
+							<integer>132</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6223,7 +6223,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>132</integer>
+							<integer>133</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6271,7 +6271,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>133</integer>
+							<integer>134</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6319,7 +6319,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>134</integer>
+							<integer>135</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6358,7 +6358,7 @@ Rate}</string>
 					<key>GroupConnect</key>
 					<string>YES</string>
 					<key>ID</key>
-					<integer>130</integer>
+					<integer>131</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -6400,7 +6400,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>136</integer>
+							<integer>137</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6448,7 +6448,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>137</integer>
+							<integer>138</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6496,7 +6496,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>138</integer>
+							<integer>139</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6544,7 +6544,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>139</integer>
+							<integer>140</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6583,7 +6583,7 @@ Rate}</string>
 					<key>GroupConnect</key>
 					<string>YES</string>
 					<key>ID</key>
-					<integer>135</integer>
+					<integer>136</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -6623,7 +6623,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>141</integer>
+							<integer>142</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6671,7 +6671,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>142</integer>
+							<integer>143</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6719,7 +6719,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>143</integer>
+							<integer>144</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6767,7 +6767,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>144</integer>
+							<integer>145</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6804,7 +6804,7 @@ Rate}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>140</integer>
+					<integer>141</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -6844,7 +6844,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>146</integer>
+							<integer>147</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6892,7 +6892,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>147</integer>
+							<integer>148</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6940,7 +6940,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>148</integer>
+							<integer>149</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -6988,7 +6988,7 @@ Rate}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>149</integer>
+							<integer>150</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7025,7 +7025,7 @@ Rate}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>145</integer>
+					<integer>146</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -7060,7 +7060,7 @@ Rate}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>150</integer>
+					<integer>151</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -7123,7 +7123,7 @@ Power}</string>
 						<real>12</real>
 					</dict>
 					<key>ID</key>
-					<integer>151</integer>
+					<integer>152</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -7189,7 +7189,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>153</integer>
+							<integer>154</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7237,7 +7237,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>154</integer>
+							<integer>155</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7285,7 +7285,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>155</integer>
+							<integer>156</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7333,7 +7333,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>156</integer>
+							<integer>157</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7370,7 +7370,7 @@ Power}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>152</integer>
+					<integer>153</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -7410,7 +7410,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>158</integer>
+							<integer>159</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7458,7 +7458,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>159</integer>
+							<integer>160</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7506,7 +7506,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>160</integer>
+							<integer>161</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7554,7 +7554,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>161</integer>
+							<integer>162</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7591,7 +7591,7 @@ Power}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>157</integer>
+					<integer>158</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -7617,7 +7617,7 @@ Power}</string>
 					<key>Class</key>
 					<string>LineGraphic</string>
 					<key>ID</key>
-					<integer>162</integer>
+					<integer>163</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Points</key>
@@ -7668,7 +7668,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>164</integer>
+							<integer>165</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7716,7 +7716,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>165</integer>
+							<integer>166</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7764,7 +7764,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>166</integer>
+							<integer>167</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7812,7 +7812,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>167</integer>
+							<integer>168</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7849,7 +7849,7 @@ Power}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>163</integer>
+					<integer>164</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -7889,7 +7889,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>169</integer>
+							<integer>170</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7937,7 +7937,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>170</integer>
+							<integer>171</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -7985,7 +7985,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>171</integer>
+							<integer>172</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -8033,7 +8033,7 @@ Power}</string>
 								<real>10</real>
 							</dict>
 							<key>ID</key>
-							<integer>172</integer>
+							<integer>173</integer>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -8070,7 +8070,7 @@ Power}</string>
 						</dict>
 					</array>
 					<key>ID</key>
-					<integer>168</integer>
+					<integer>169</integer>
 					<key>Layer</key>
 					<integer>0</integer>
 					<key>Style</key>
@@ -8105,7 +8105,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>173</integer>
+					<integer>174</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8149,7 +8149,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>174</integer>
+					<integer>175</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8193,7 +8193,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>175</integer>
+					<integer>176</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8237,7 +8237,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>176</integer>
+					<integer>177</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8281,7 +8281,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>177</integer>
+					<integer>178</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8325,7 +8325,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>178</integer>
+					<integer>179</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8369,7 +8369,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>179</integer>
+					<integer>180</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8413,7 +8413,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>180</integer>
+					<integer>181</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8457,7 +8457,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>181</integer>
+					<integer>182</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8501,7 +8501,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>182</integer>
+					<integer>183</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8545,7 +8545,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>183</integer>
+					<integer>184</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8589,7 +8589,7 @@ Power}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>184</integer>
+					<integer>185</integer>
 					<key>Layer</key>
 					<integer>1</integer>
 					<key>Style</key>
@@ -8767,7 +8767,7 @@ Power}</string>
 	<key>resolutionForJPGKey</key>
 	<real>1.3888888359069824</real>
 	<key>resolutionForPNGKey</key>
-	<real>1.3888888359069824</real>
+	<real>1</real>
 	<key>resolutionForTIFFKey</key>
 	<real>1</real>
 	<key>resolutionUnitsKey</key>
